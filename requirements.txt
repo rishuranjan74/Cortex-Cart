@@ -1,0 +1,15 @@
+Core AI and LLM Frameworks
+langchain
+langchain-community
+ollama
+
+Web Search and Data Scraping Tools
+langchain-brave-search
+beautifulsoup4
+requests
+
+User Interface
+streamlit
+
+Environment Variable Management
+python-dotenv
